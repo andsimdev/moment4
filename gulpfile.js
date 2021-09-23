@@ -122,3 +122,5 @@ exports.default = series(
     // Kör watchTask för att lyssna efter förändringar i källkodsfilerna och kör BrowserSync
     watchTask
 );
+
+// Test
